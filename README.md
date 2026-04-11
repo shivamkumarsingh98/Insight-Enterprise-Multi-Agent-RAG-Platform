@@ -13,6 +13,7 @@ It combines:
 🏗️ Architecture
 
 The system follows a multi-agent orchestration model:
+```text
  
                         ┌──────────────────────┐
                         │      User Query      │
@@ -73,6 +74,7 @@ The system follows a multi-agent orchestration model:
 ┌───────────────┐
 │ Final Response│
 └───────────────┘
+```
 
 ## 🏗️ Architecture
 ```text
