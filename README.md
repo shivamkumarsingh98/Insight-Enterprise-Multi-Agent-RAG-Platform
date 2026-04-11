@@ -74,6 +74,8 @@ The system follows a multi-agent orchestration model:
 │ Final Response│
 └───────────────┘
 
+## 🏗️ Architecture
+```text
 app/
 │
 ├── agents/              # Individual AI agents
@@ -119,6 +121,8 @@ app/
 ├── registry/            # Agent registration
 ├── supervisor/          # Orchestration logic
 └── utils/               # Helper utilities
+
+```
 
 🧠 Key Features
 
