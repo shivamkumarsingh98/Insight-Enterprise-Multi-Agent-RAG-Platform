@@ -1,0 +1,33 @@
+{
+  "query_history": {
+    "value": [
+      {
+        "query": "machine learning",
+        "result_count": 5,
+        "timestamp": 1775498914.5530767
+      },
+      {
+        "query": "machine learning",
+        "result_count": 5,
+        "timestamp": 1775545366.540547
+      },
+      {
+        "query": "Data science",
+        "result_count": 5,
+        "timestamp": 1775558756.758864
+      },
+      {
+        "query": "What is the impact of non-pharmacological interventions in treatment-resistant depression",
+        "result_count": 5,
+        "timestamp": 1775564015.9932835
+      },
+      {
+        "query": "LLM",
+        "result_count": 5,
+        "timestamp": 1775568552.2597733
+      }
+    ],
+    "saved_at": 1775568552.2602587,
+    "id": "9017d697"
+  }
+}

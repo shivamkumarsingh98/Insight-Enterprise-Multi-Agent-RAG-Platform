@@ -1,0 +1,14 @@
+langchain
+langgraph
+FastAPI
+ReportLab
+scrapy
+arxiv
+langchain-community
+pypdf
+pymupdf
+TextLoader
+faiss-cpu
+sentence-transformers
+chromadb
+pydantic-settings
