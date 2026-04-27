@@ -12,3 +12,5 @@ faiss-cpu
 sentence-transformers
 chromadb
 pydantic-settings
+uvicorn
+python-dotenv
